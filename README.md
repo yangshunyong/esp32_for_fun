@@ -5,7 +5,7 @@ This is a repository for kids to learning micropython on ESP32 board
 [参考以下网页] https://blog.csdn.net/Little_Carter/article/details/128597071
 开发板已经烧好micropython image，无须烧录，只需要下载Thonny，配置解释器，链接板子即可
 # 学习步骤
-先学习交通灯，然后学些蜂鸣器，最后学习数码管显示并结合到一起做一个倒计时+声音提醒的交通灯
+先学习交通灯，然后学习蜂鸣器，再学习数码管显示。最后把三个例子结合到一起做一个倒计时 + 声音提醒的交通灯
 # 目录结构
 |目录|内容|
 |---|---|
