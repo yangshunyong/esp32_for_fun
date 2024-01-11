@@ -7,7 +7,7 @@ Green = Pin(13, Pin.OUT)
 Yellow = Pin(12, Pin.OUT)
 
 Red.value(0)
-Green.value(0)
+Yellow.value(0)
 Green.value(0)
 
 while True:
