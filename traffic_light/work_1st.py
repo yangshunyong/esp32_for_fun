@@ -7,7 +7,7 @@ Green = Pin(13, Pin.OUT)
 Yellow = Pin(12, Pin.OUT)
 
 #程序开始，初始化所有灯为灭的状态
-Red.value(1)
+Red.value(0)
 Yellow.value(0)
 Green.value(0)
 
