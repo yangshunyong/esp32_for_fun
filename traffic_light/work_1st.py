@@ -6,11 +6,12 @@ Red = Pin(14, Pin.OUT)
 Green = Pin(13, Pin.OUT)
 Yellow = Pin(12, Pin.OUT)
 
-Red.value(0)
+#程序开始，初始化所有灯为灭的状态
+Red.value(1)
 Yellow.value(0)
 Green.value(0)
 
-while True:
+while True:				#死循环，代码不退出，一直循环后面的操作
    Red.value(1)
    time.sleep_ms(3000)
    Red.value(0)
