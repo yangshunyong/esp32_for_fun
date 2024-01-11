@@ -1,8 +1,8 @@
 This is a repository for Kids to learning micropython on ESP32 board
 # 课件地址：
-[参考以下网站](https://doc.itprojects.cn/0006.zhishi.esp32/02.doc/index.html#/README)
+[参考以下网站] https://doc.itprojects.cn/0006.zhishi.esp32/02.doc/index.html#/README
 # 环境搭建：
-[参考以下网页](https://blog.csdn.net/Little_Carter/article/details/128597071)
+[参考以下网页] https://blog.csdn.net/Little_Carter/article/details/128597071
 
 开发板已经烧好micropython image，无须烧录，只需要下载Thonny，配置解释器，链接板子即可
 # ESP32板子管脚解释
