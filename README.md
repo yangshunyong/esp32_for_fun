@@ -1,5 +1,5 @@
 This is a repository for kids to learning micropython on ESP32 board
-# 课件地址：
+# 通用学习课件：
 [参考以下网站] https://doc.itprojects.cn/0006.zhishi.esp32/02.doc/index.html#/README
 # 环境搭建：
 [参考以下网页] https://blog.csdn.net/Little_Carter/article/details/128597071
