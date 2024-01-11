@@ -9,5 +9,6 @@ This is a repository for Kids to learning micropython on ESP32 board
 ### D0, D12, D13... GPIO（通用输入输出管脚）
 ### IO Input/Output(输入/输出)
 ### 3v3 3.3V电源正极
+### VCC 电源正极，输入的话一般接3.3V
 ### GND 电源负极
 
