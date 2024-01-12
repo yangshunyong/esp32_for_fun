@@ -28,6 +28,7 @@ This is a repository for kids to learning micropython on ESP32 board
 |单词|中文|
 |---|---|
 |import|导入|
+|machine|机器|
 |pin|管脚|
 |PWM |脉宽调制|
 |sleep |睡眠|
