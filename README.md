@@ -26,7 +26,6 @@ This is a repository for kids to learning micropython on ESP32 board
 # 代码中的英文单词
 
 |单词|中文|
-| | |
 |---|---|
 |import|导入|
 |pin|管脚|
