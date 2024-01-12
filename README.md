@@ -23,4 +23,21 @@ This is a repository for kids to learning micropython on ESP32 board
 |***3v3***|3.3V电源正极|
 |***VCC*** |电源正极，输入的话一般接3.3V|
 |***GND*** |电源负极|
+# 代码中的英文单词
 
+|单词|中文|
+| | |
+|---|---|
+|import|导入|
+|pin|管脚|
+|PWM |脉宽调制|
+|sleep |睡眠|
+|def (definition)|定义|
+|toggle|翻转 |
+|init (initialize) |初始化 |
+|clk (clock)|时钟|
+|dio (digital IO)|数字输入输出|
+|number|数字|
+|colon|冒号|
+|count|基数|
+|local time|本地的时间|
